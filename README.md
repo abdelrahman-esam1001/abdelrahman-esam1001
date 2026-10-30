@@ -27,8 +27,9 @@ I build responsive, modern web apps, from e-commerce stores to dashboards and re
 ---
 
 ## 🛠 Tech Stack
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/1d8f1435-7c3b-40ee-8daa-1dcfc3aca643" />
 
+angular
+supabase
 
 
 ---
