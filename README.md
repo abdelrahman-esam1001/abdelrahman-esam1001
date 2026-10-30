@@ -43,13 +43,6 @@ I build responsive, modern web apps, from e-commerce stores to dashboards and re
 
 ---
 
-## 📊 GitHub Stats
-
-![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahman-esam1001&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-esam1001&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-essam-b5880239b)
