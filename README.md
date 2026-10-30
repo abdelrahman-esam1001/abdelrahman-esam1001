@@ -28,8 +28,7 @@ I build responsive, modern web apps, from e-commerce stores to dashboards and re
 
 ## 🛠 Tech Stack
 
-angular
-supabase
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 ---
